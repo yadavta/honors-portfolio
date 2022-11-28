@@ -1,5 +1,3 @@
-# Honors 100 Portfolio
-
 ## Introduction
 
 Hi! I'm Tanush, a student in the Paul G. Allen School of Computer Science & Engineering at the University of Washington. This page contains a portfolio required by the Interdisciplinary Honors program.
